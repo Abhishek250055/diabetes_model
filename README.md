@@ -43,7 +43,7 @@ ld=load_diabetes()
 ## Connect with me  
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-bisen-a7a680237/" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-bisen-a7a680237/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/Abhishek250055" target="_blank">
