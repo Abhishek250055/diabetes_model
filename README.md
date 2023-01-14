@@ -4,7 +4,13 @@
   
 
 ## ***<div align="center">Predictive models for diabetes mellitus using machine learning techniques</div>***  
-  
+## ***<div align="center">Dataset:</div>***  
+## <div align="center">
+from sklearn.datasets import load_diabetes<br>
+ld=load_diabetes()
+</div>  
+
+
 
 - 🔭 This model are used to predict t diabetes level  
   
